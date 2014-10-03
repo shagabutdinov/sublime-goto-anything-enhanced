@@ -1,0 +1,6 @@
+[
+  {
+    "caption": ["GotoSelectionEnhanced: Show panel"],
+    "command": "show_goto_file_panel"
+  },
+]
