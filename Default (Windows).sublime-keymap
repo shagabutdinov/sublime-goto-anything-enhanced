@@ -1,9 +1,10 @@
 [
   {
-    "keys": ["f1"],
+    "keys": ["alt+n"],
     "command": "show_goto_file_panel",
     "context": [
       {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+      {"key": "overlay_visible", "operator": "equal", "operand": false},
     ]
   },
 ]
